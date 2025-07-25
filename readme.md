@@ -1,6 +1,6 @@
-# BEES Data Engineering – Breweries Case
+# Open Brewery DB API Data Pipeline
 
-This project is a solution to the BEES Data Engineering challenge. It involves creating a data pipeline that consumes data from the Open Brewery DB API, processes it through a Medallion architecture, and visualizes the results.
+This project involves creating a data pipeline that consumes data from the Open Brewery DB API, processes it through a Medallion architecture, and visualizes the results.
 
 ## Table of Contents
 - [Architecture](#architecture)
