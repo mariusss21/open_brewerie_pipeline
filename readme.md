@@ -1,4 +1,4 @@
-# Open Brewery DB API Data Pipeline
+# Open Brewery DB API Data Pipeline 🍻
 
 This project involves creating a data pipeline that consumes data from the Open Brewery DB API, processes it through a Medallion architecture, and visualizes the results.
 
